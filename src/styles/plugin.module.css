@@ -1,0 +1,20 @@
+.pluginContainer {
+  border: 1px solid rgba(230, 226, 226, 0.784);
+  padding: 20px;
+  width: 300px;
+  height: 130px;
+  border-radius: 10px;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+.pluginTitle {
+  margin-bottom: 10px;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.pluginContent {
+  font-size: 14px;
+  width: 90%;
+}
